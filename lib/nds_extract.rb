@@ -25,5 +25,8 @@ end
 # using director_data as 
 
 def gross_for_director(director_data)
-  directors_totals(director_data)
+  
 end
+
+
+
